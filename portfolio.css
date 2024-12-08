@@ -840,13 +840,12 @@ footer p {
     }
 
     .first-page {
-        background-image: url("Me2.JPG");
-        background-position: top 150px center;
+        background-image: none;
     }
 
     .first-page-content {
-        left:20%;
-        top:50%;
+        left:12%;
+        top:40%;
     }
     .line-1 {
         font-size: 1.0rem;
